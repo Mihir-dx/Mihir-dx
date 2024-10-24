@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mihir-dx
+- 👋 Hi, I’m Mihir
 - 👀 I’m interested in Gaming, 3D Modelling.
 - 🌱 I’m currently learning Blender 3D, C++, Unreal Engine
 - 💞️ I’m looking to collaborate on GitHub, LinkedIn
