@@ -1,7 +1,7 @@
 <h1 align="center">Mihir Kumar</h1>
 
 <p align="center">
-Computer Science Student | Aspiring Game Developer | 3D Modeling Enthusiast
+Computer Science Student | Aspiring Game Developer | 3D Enthusiast
 </p>
 
 ---
